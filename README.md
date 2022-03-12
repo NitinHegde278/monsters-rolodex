@@ -1,3 +1,5 @@
+Basic React Project **Monsters Rolodex** which provides list of monsters with functionality to filter through them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
